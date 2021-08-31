@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes">
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+
+    </string-array>
+
+
+    <integer-array name="flora_a">
+
+        <item>@drawable/june</item>
+        <item>@drawable/july</item>
+        <item>@drawable/august</item>
+        <item>@drawable/september</item>
+        <item>@drawable/october</item>
+        <item>@drawable/november</item>
+        <item>@drawable/december</item>
+        <item>@drawable/january</item>
+        <item>@drawable/february</item>
+        <item>@drawable/march</item>
+        <item>@drawable/april</item>
+        <item>@drawable/may</item>
+
+
+
+
+    </integer-array>
+
+</resources>
